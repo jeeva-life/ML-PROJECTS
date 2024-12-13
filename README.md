@@ -67,9 +67,6 @@ Cross-Validation (CV) is employed to tune hyperparameters and select the best mo
 How to Contribute
 Feel free to fork this repository, make changes, and submit a pull request. If you have any suggestions or encounter issues, please open an issue in the GitHub repository.
 
-License
-
-This project is licensed under the MIT License.
 
 Notes:
 Replace "https://github.com/yourusername/forest-fire-prediction.git" with the actual URL of your repository.
